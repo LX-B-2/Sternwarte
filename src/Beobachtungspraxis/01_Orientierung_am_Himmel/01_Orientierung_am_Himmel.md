@@ -137,7 +137,7 @@ strong {
 
 <img align="left" width="500" src="images/qr_stellarium.png"> <img align="right" width="500" src="images/qr_mobs.png">
 
-Für PC: <a href="https://stellarium.org/de/">https://stellarium.org/de/</a>
+Für PC: <a style="color:#0b1552" href="https://stellarium.org/de/">https://stellarium.org/de/</a>
 
 
 ----
@@ -146,4 +146,4 @@ Für PC: <a href="https://stellarium.org/de/">https://stellarium.org/de/</a>
 
 </br>
 
-Folien auf: <a href="
+Folien auf: <a style="color:#0b1552" href="https://luisxaver02.wixsite.com/luis/vortrage">meiner Website</a>
