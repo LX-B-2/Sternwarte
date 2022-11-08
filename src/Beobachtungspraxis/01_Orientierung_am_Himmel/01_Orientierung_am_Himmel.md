@@ -42,6 +42,7 @@ strong {
     2.2 Nutzung von Sternkarten
     2.3 Deep Sky Kataloge
     2.4 Nützliche Software
+    2.5 Finden eines Himmelsobjekts
 
 ---
 
@@ -139,6 +140,20 @@ strong {
 
 Für PC: <a style="color:#0b1552" href="https://stellarium.org/de/">https://stellarium.org/de/</a>
 
+
+----
+
+## 2.5 Finden eines Himmelsobjekts
+
+### Vorbereitung: 
+  - Katalognamen für das Objekt finden
+  - Software / Sternkarte bereitlegen und einstellen
+  - Erste Orientierung am Himmel durch Sternbilder / helle Sterne
+
+### Vorgehen:
+  1. Objekt in Karte finden
+  2. Himmelsrichtung + Sternbild + helle Sterne in der Nähe identifizieren
+  3. Star-Hopping / Triangulierung / Geometrische Konstrukte bilden
 
 ----
 
