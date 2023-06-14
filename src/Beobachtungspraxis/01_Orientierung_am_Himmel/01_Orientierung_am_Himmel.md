@@ -161,4 +161,4 @@ Für PC: <a style="color:#0b1552" href="https://stellarium.org/de/">https://stel
 
 </br>
 
-Folien auf: <a style="color:#0b1552" href="https://luisxaver02.wixsite.com/luis/vortrage">luisxaver02.wixsite.com/luis/vortrage</a>
+Folien auf: <a style="color:#0b1552" href="https://astro.luisxb.de">astro.luisxb.de</a>
